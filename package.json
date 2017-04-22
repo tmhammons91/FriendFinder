@@ -1,0 +1,30 @@
+{
+  "name": "friendfinder",
+  "version": "0.1.1",
+  "description": "node express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmhammons91/FriendFinder.git"
+  },
+  "author": "TH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmhammons91/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/tmhammons91/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "express",
+    "node"
+  ]
+}
